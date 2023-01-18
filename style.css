@@ -1,0 +1,29 @@
+body{background-color: pink;}
+
+.title{border: solid rgb(228, 14, 121);
+text-align: center;}
+
+.description{border: solid slateblue;
+font-size: large; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-align: center;}
+
+
+.note{font-size: large; color: rgb(0, 0, 0); margin: 12px; padding: 22px;
+ text-align: center;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzdcCqoAEKjsum6TlhVZhskYKcdXSH9j2Ag&usqp=CAU);}
+
+ h2{text-align: center;}
+ 
+
+
+input[type=button]:hover
+{ text-align: center;  
+ background-color: rgb(236, 15, 236);
+    padding: 5px; margin:auto; color: gold;
+    }
+
+.birthdaypic{border: solid plum; margin-left: 43%;
+    border-radius: 12px;}
+     
+
